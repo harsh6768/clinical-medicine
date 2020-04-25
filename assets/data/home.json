@@ -1,0 +1,25 @@
+[
+    {
+        "id":"1",
+        "image_url":"assets/images/user.png",
+        "title":"Personal info",
+        "desc":""
+    },
+    {
+        "id":"2",
+        "image_url":"assets/images/support.png",
+        "title":"Support",
+        "desc":""
+    },
+    {
+        "id":"3",
+        "image_url":"assets/images/speed1.png",
+        "title":"Weight",
+        "desc":"158lb"
+    },
+    {
+        "id":"4",
+        "image_url":"assets/images/lock1.png",
+        "title":"Account settings"
+    }
+]

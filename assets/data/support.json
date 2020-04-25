@@ -1,0 +1,17 @@
+[
+    {
+        "id":1,
+        "image_url":"assets/images/apple.png",
+        "title":"Diets",
+        "desc":"",
+        "is_detail_on":true
+    },
+    {
+        "id":2,
+        "image_url":"assets/images/gym.png",
+        "title":"Exercises",
+        "desc":"",
+        "is_detail_on":false
+    }
+   
+]
