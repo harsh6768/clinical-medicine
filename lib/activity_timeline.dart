@@ -250,7 +250,7 @@ class _RoutineTimelineState extends State<RoutineTimeline> {
                                 fontWeight: FontWeight.bold),
                           ),
                           Text(
-                            '30',
+                            '30min',
                             style: TextStyle(
                               color: Color.fromRGBO(67, 72, 155, 0.8),
                               fontSize: 20.0,

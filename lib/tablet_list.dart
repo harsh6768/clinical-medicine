@@ -49,6 +49,7 @@ class _TabletListState extends State<TabletList> {
                       Navigator.of(context).push(
                         MaterialPageRoute(
                           builder: (_) => TabletDetails(
+                            context: context,
                             imageUrl: tabletList[index].imageUrl,
                             title: tabletList[index].title,
                             desc: tabletList[index].desc,
