@@ -16,9 +16,7 @@ width="250" height="450" >.....................................
 <img src="https://github.com/harsh6768/clinical-medicine/blob/master/Images/medicine2.jpeg" alt="" 
 width="250" height="450" >...............
 <img src="https://github.com/harsh6768/clinical-medicine/blob/master/Images/medicine4.jpeg" alt="" width="250" height="450" >
-
-...............
-<img src="https://github.com/harsh6768/clinical-medicine/blob/master/Images/medicine5.jpeg" alt="" 
+........ <img src="https://github.com/harsh6768/clinical-medicine/blob/master/Images/medicine5.jpeg" alt="" 
 width="250" height="450" >
 
 
