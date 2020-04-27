@@ -7,6 +7,9 @@
 
 # # Combo Clinical
 
+Inspired by Dribble Design
+https://dribbble.com/shots/6555403-Combo-clinical-trial-app-UI-map/attachments
+
 ### Flutter is a mobile sdk which will help to develop real native app for both andorid and ios using Dart Language.Flutter uses material designs to implement all it's component.
 
 <img src="https://github.com/harsh6768/clinical-medicine/blob/master/Images/medicine.jpeg" alt="" 
